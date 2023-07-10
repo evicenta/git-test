@@ -9,16 +9,11 @@
     "lite": "lite-server"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/evicenta/git-test.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/evicenta/git-test/issues"
-  },
-  "homepage": "https://github.com/evicenta/git-test#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.5.4"
   }
 }
